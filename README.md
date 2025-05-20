@@ -73,7 +73,7 @@ The game alternates between **two phases**, each lasting 10 seconds:
 - [Bounci](https://github.com/Bouncii)
 - [Fyraxys](https://github.com/FYRAXYS)
 
-This project was made in high school for the [Nuit Du Code (NDC)](https://www.nuitducode.net/)
+This project was made in high school for the [Nuit Du Code (NDC)](https://www.nuitducode.net/) 2024 edition
 
 ---
 
