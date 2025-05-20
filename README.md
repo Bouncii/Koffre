@@ -6,6 +6,16 @@
 
 ---
 
+## 📚 Table of Contents
+
+- [Overview](#overview)
+- [Concept](#concept)
+- [How to Play](#how-to-play)
+- [Requirements](#requirements)
+- [Credits](#credits)
+
+---
+
 ## 📜 Overview
 
 Both players find themselves trapped in an ancient **underground vault**, overflowing with priceless treasures. But beware... Among these treasures lies a **possessed artifact** that refuses to end up behind a museum glass! 👻💰
@@ -45,6 +55,9 @@ The game alternates between **two phases**, each lasting 10 seconds:
 ---
 
 ## 🕹️ How to Play
+
+Download the source code using `git clone` or download as zip file.
+Run the [Koffre.py](Koffre.py) file if you already have the [Requirements](#requirements) installed
 
 ### 👁️‍🗨️ Hunter (Mouse)
 
