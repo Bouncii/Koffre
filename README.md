@@ -8,21 +8,21 @@
 
 ## 📚 Table of Contents
 
-- [Overview](##overview)
-- [Concept](##concept)
-- [How to Play](##how-to-play)
-- [Requirements](##requirements)
-- [Credits](##credits)
+- [Overview](#overview)
+- [Concept](#concept)
+- [How to Play](#how-to-play)
+- [Requirements](#requirements)
+- [Credits](#credits)
 
 ---
 
-## 📜 Overview
+## 📜 Overview <a name="overview"></a>
 
 Both players find themselves trapped in an ancient **underground vault**, overflowing with priceless treasures. But beware... Among these treasures lies a **possessed artifact** that refuses to end up behind a museum glass! 👻💰
 
 ---
 
-## 💡 Concept
+## 💡 Concept <a name="concept"></a>
 
 You’ve just infiltrated a **secret Greek tomb**... but a mischievous spirit has beaten you to it and possessed one of the treasures.
 
@@ -48,16 +48,16 @@ The game alternates between **two phases**, each lasting 10 seconds:
 
 - The screen goes **completely dark**:
 → The Impostor can move **freely and unseen**.
-→ They can change hiding spots to confuse the Hunter. 🕶️
+→ They can change hiding spots to confuse the Hunter.
 
 🏆​ The impostor wins if the counter reaches 100
 
 ---
 
-## 🕹️ How to Play
+## 🕹️ How to Play <a name="how-to-play"></a>
 
-Download the source code using `git clone` or download as zip file.
-Run the [Koffre.py](Koffre.py) file if you already have the [Requirements](##requirements) installed
+Download the source code using `git clone` or download as zip file.  
+Run the [Koffre.py](Koffre.py) file if you already have the [Requirements](#requirements) installed.
 
 ### 👁️‍🗨️ Hunter (Mouse)
 
@@ -74,14 +74,14 @@ Run the [Koffre.py](Koffre.py) file if you already have the [Requirements](##req
 
 ---
 
-## 🛠️ Requirements
+## 🛠️ Requirements <a name="requirements"></a>
 
 - Python
 - [pyxel](https://github.com/kitao/pyxel)
 
 ---
 
-## ✨ Credits
+## ✨ Credits <a name="credits"></a>
 
 - [Bounci](https://github.com/Bouncii)
 - [Fyraxys](https://github.com/FYRAXYS)
